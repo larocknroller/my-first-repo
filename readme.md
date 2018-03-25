@@ -1,19 +1,19 @@
-#Steve LaRock
+# Steve LaRock
 
 ## Aspiring Network Automation Dude
 
 ##About me
 
-I live i Minneapolis MN and have my enture life.
+I live in Minneapolis, MN and have my entire life.
 
-I work at TCF Bank, a midsize bank headquarters in Minneapolis and have for 29 years.
+I work at TCF Bank, a midsize bank with headquarters in Minneapolis.  I have worked there for 29 years.
 
 When not working, my favorite passtimes are:
 
--**Sailing**
--**Playing music**
--**Riding bike**
--**Playing with my dogs**
+- **Sailing**
+- **Playing music**
+- **Riding bike**
+- **Playing with my dogs**
 
 My favorite restaurants are:
 
