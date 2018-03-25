@@ -1,3 +1,0 @@
-adding text to this file
-to see how GIT tracks changes to the file
-
