@@ -1,30 +1,26 @@
- This is a large heading
+#Steve LaRock
 
-## This is a smalle heading
+## Aspiring Network Automation Dude
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+##About me
 
-- This is 
-- an ordered
-- list
+I live i Minneapolis MN and have my enture life.
 
-1. This is
-2. an orderd
-3. list
+I work at TCF Bank, a midsize bank headquarters in Minneapolis and have for 29 years.
 
-Here is 'some code' in the middle of a sentence.
+When not working, my favorite passtimes are:
 
-'''
-This is
-a block
-of code
-'''
+-**Sailing**
+-**Playing music**
+-**Riding bike**
+-**Playing with my dogs**
 
-Here is how you make [a link](https://www.wikipedia.org/).
+My favorite restaurants are:
 
-![This is an image.] (https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg\)
+1. *Mac's Industrial*
+2. *Serums*
+3. *Panerra*
+
+
 
 
